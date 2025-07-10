@@ -1,3 +1,5 @@
+(* Nota: 10 *)
+
 let hd l = 
   match l with
   | h::_ -> h
