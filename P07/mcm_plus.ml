@@ -1,3 +1,4 @@
+(* Nota: 10 *)
 
 let mcd x y =
   let rec aux a b =
